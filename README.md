@@ -1,6 +1,6 @@
 # Tetris on Ainize
 
-[![Run on Ainize](https://ainize-dev.herokuapp.com/static/images/run_on_ainize_button.svg)](https://ainize-dev.web.app/redirect?git_repo=github.com/Laeyoung/javascript-tetris)
+[![Run on Ainize](https://ainize.herokuapp.com/static/images/run_on_ainize_button.svg)](https://ainize.web.app/redirect?git_repo=github.com/Laeyoung/javascript-tetris)
 
 ### Step.1 Fork and Clone your imgproxy repo
 ```
@@ -24,7 +24,7 @@ docker push ${YOUR-DOCKER-HUB-ID}/javascript-tetris
 
 ### Step.5 Enjoy tetris
 
-https://javascript-tetris.laeyoung.endpoint.dev.ainize.ai/ (change __laeyoung__ to __your-ainize-ai__)
+https://javascript-tetris.laeyoung.endpoint.ainize.ai/ (change __laeyoung__ to __your-ainize-ai__)
 
 Javascript Tetris
 =================
