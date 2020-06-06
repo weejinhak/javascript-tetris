@@ -1,4 +1,4 @@
-# Tetris on Ainize
+# Tetris on Ainize!
 
 [![Run on Ainize](https://ainize.herokuapp.com/static/images/run_on_ainize_button.svg)](https://ainize.web.app/redirect?git_repo=github.com/Laeyoung/javascript-tetris)
 
