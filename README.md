@@ -1,6 +1,6 @@
 # Tetris on Ainize
 
-[![Run on Ainize](https://ainize-dev.herokuapp.com/images/run_on_ainize_button.svg)](https://ainize-dev.web.app/redirect?git_repo=https://github.com/Laeyoung/javascript-tetris)
+[![Run on Ainize](https://ainize-dev.herokuapp.com/images/run_on_ainize_button.svg)](https://ainize-dev-1.web.app/redirect?git_repo=https://github.com/Laeyoung/javascript-tetris)
 
 ### Step.1 Fork and Clone your imgproxy repo
 ```
